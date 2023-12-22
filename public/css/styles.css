@@ -1,0 +1,43 @@
+html,
+body {
+  height: 100%;
+}
+.mt-5{
+  text-align: center;
+}
+.btn-primary, .btn-bd-primary{
+    background-color: #795548;
+    border-color: #795548;
+}
+.h3{
+    text-align: center;
+}
+
+img{
+    border-radius: 2rem;
+    margin-left: 85px;
+}
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.top{
+  margin-bottom: px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.middle{
+  margin-bottom: px;
+  border-radius: 0;
+}
+.bottom{
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
